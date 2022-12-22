@@ -15,11 +15,11 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This website was designed to serve as the Horiseon company's homepage. Users can go to this website to learn more about the abilities required to build a strong brand for their business through search engine optimization, online reputation management, and social media marketing. Horiseon provides mentorship for these features, and this page allows users to learn more about what it's like to work with Horiseon.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+![Screenshot of Full Webpage](assets/images/screenshot.png)
 
 ## Credits
 
