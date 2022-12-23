@@ -19,7 +19,7 @@ This website was designed to serve as the Horiseon company's homepage. Users can
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![Screenshot of Full Webpage](assets/images/screenshot.png)
+![Screenshot of Full Webpage](assets/images/Challenge1-Image.png)
 
 ## Credits
 

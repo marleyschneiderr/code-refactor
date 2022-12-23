@@ -85,7 +85,7 @@ p {
     margin-left: 20px;
 }
 
-
+/* Makes the benefits rectangle stay to the right of the content section, controls font, size of background rectangle, color of background rectangle, and all positionings of the size of the rectangle margins and padding compared to the rest of the page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -109,6 +109,7 @@ p {
     text-align: center;
 }
 
+/* Controls sizing and positioning of icons in the benefits section*/
 .benefit-content img {
     display: block;
     margin: 10px auto;
@@ -125,6 +126,7 @@ p {
     color: #ffffff;
 }
 
+/* Controls sizing and positioning of icons in the content section*/
 .content-sections img {
     max-height: 200px;
 }
@@ -135,6 +137,7 @@ p {
     font-size: 36px;
 }
 
+/*Allows footer context to have specific font, center in the middle, and create a box padding of 30px around the text */
 footer {
     padding: 30px;
     clear: both;
@@ -142,6 +145,7 @@ footer {
     text-align: center;
 }
 
+/*Controls the font size of 'Made with love by Horiseon' text */
 footer h2 {
     font-size: 20px;
 }
