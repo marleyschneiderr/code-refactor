@@ -11,7 +11,7 @@ Improving HTML semantics and accessibility, and optimizing CSS
 
 ## Link to Live WebPage
 
-! [Link to Live Project Website] (https://marleyschneiderr.github.io/code-refactor/)
+https://marleyschneiderr.github.io/code-refactor/
 
 ## Installation
 
