@@ -9,6 +9,10 @@ Improving HTML semantics and accessibility, and optimizing CSS
 - Improving HTML semantics and accessibility will allow visually-impaired or blind users to access web pages with the help of screen readers. This means that it will parse through the HTML of your web page and read the contents out loud, responding to commands to navigate throughout the page, and take actions (i.e., clicking on links, submitting a form, etc.). Optimizing the CSS will allow the webpage to load faster, improving accessibility for a user who is interested in navigating to the page. 
 - I learned key tactics to create accessible HTML. For example, I learned how to create alt tags so that screen readers can access the page. I learned how to link a CSS page to an HTML page so that style rules are applied on a website. I learned how create concise CSS that does not repeat styles. I learned how to create my first webpage and upload it to a live repository on GitHub.
 
+## Link to Live WebPage
+
+! [Link to Live Project Website] (https://marleyschneiderr.github.io/code-refactor/)
+
 ## Installation
 
 N/A
