@@ -21,7 +21,7 @@ This website was designed to serve as the Horiseon company's homepage. Users can
 
 ## Credits
 
-N/A
+The original code is from Xandromous originating from the University of Washington full stack coding bootcamp.
 
 ## License
 
